@@ -1,7 +1,7 @@
 # MyTipCalc
-# Pre-work - *Name of App Here*
+# Pre-work - *TipCalc*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipCalc** is a tip calculator application for iOS.
 
 Submitted by: **Mohammed Hasanul Abedin Rafi**
 

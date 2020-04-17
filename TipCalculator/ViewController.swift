@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         
         view.endEditing(true)
     }
-    
+    //sdbcj
     @IBAction func calculateTip(_ sender: Any) {
         
         
